@@ -1,22 +1,14 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
+- name: PTC Windchill    
+  i18n: Windchill
+  gh_user: PTC
+  img: /static/assets/img/landing/ptc.png
+  desc: PTC Windchill is a Product Lifecycle Management (PLM) software product that is offered by PTC. Windchill is currently being used by over 1.1 million users worldwide.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
-
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+- name: Global Cash Management System
+  i18n: GCMS
+  gh_user: CITI
+  img: /static/assets/img/landing/citi.png
+  desc: GCMS is designed to manage the Cash flow. Any wire coming from different up streams is validated, approved and processed, which is then sent to appropriate downstream.

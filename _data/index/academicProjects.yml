@@ -1,0 +1,40 @@
+- name: Retail Business Management System
+  i18n: RBMS
+  gh_user: pooja10991
+  repo: RBMS
+  img: /static/assets/img/landing/bearcats.png
+  desc: Developed database from scratch for a typical retail business setup comprising, products, customers, purchases etc., it included a variety of triggers and procedures to maintain logs automatically, keep an eye on inventory& place order for unavailable products.
+  
+- name: Mini Unix Shell
+  i18n: Mini-Shell
+  gh_user: pooja10991
+  repo: Mini-Shell
+  img: /static/assets/img/landing/bearcats.png
+  desc: This project is about how the shell works. Some of the properties of shell are replicated here like basic navigation commands, running different commands with any number of arguments, running multiple commands, bringing the background process to foreground and many more.
+  
+- name: Sorting Algorithms 
+  i18n: Sorting Algorithms
+  gh_user: pooja10991
+  repo: Sorting-Algorithms
+  img: /static/assets/img/landing/bearcats.png
+  desc: Implementation of different sorting algorithms.
+  
+- name: Dynamic Programming And Greedy Algorithms
+  i18n: Dynamic-Programming-And-Greedy-Algorithms
+  gh_user: pooja10991
+  repo: Dynamic-Programming-And-Greedy-Algorithms
+  img: /static/assets/img/landing/bearcats.png
+  desc: Implementation of different Dynamic Programming and Greedy algorithms.
+  
+- name: Trees And Graphs
+  i18n: Trees-And-Graphs
+  gh_user: pooja10991
+  repo: Trees-And-Graphs
+  img: /static/assets/img/landing/bearcats.png
+  desc: Implementation of different Trees and Graphs algorithms.
+  
+- name: Transforming Printed Documents Directly to Database/OCR
+  i18n: OCR
+  gh_user: pooja10991
+  img: /static/assets/img/landing/svit.jpg
+  desc: This project is based on image processing wherein the user has to input the scanned copy of the mark sheet in desired format. • The software will process the document and automatically detect various fields and extract appropriate data from it. We then stored this data in database for further use.

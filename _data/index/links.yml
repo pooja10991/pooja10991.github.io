@@ -1,18 +1,18 @@
 # links section data
-- last_name: Name 1
-  first_name:
-  desc: CEO
-  website: https://www.google.com
-  email: ceo@google.com
+- last_name: Meng
+  first_name: Weiyi
+  desc: Chair and Professor, Department of Computer Science, Binghamton University
+  website: http://www.cs.binghamton.edu/~meng/meng.html
+  email: meng@binghamton.edu 
 
-- last_name: Donate
-  first_name: Jalpc
-  desc: Support Jalpc
-  website: http://www.jarrekk.com/donate/
-  email: me@jarrekk.com
+- last_name: Kumar
+  first_name: Shambhu
+  desc: Team Lead at Cognizant
+  website: https://www.linkedin.com/in/shambhu-kumar-4aa13b21/
+  email: Shambhu.Kumar2@cognizant.com
 
-- last_name: LN
-  first_name: FN
-  desc: COO
-  website: https://github.com
-  email: coo@google.com
+- last_name: Joy
+  first_name: Pradeep
+  desc: Technology Fellow at PTC 
+  website: https://www.linkedin.com/in/pradeep-joy-9aa3426/
+  email: pjoy@ptc.com
