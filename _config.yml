@@ -28,7 +28,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Pursuing Master's in Computer Science at Binghamton University (SUNY). Have prior experience of 4 years in IT. Java Developer.  # Describe yourself.
+  desc: Working as Software Development Engineer at Whole Foods Market. # Describe yourself.
 
 # comment
 disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
