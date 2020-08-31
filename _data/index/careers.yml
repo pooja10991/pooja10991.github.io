@@ -1,6 +1,20 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Whole Foods Market
+    i18n: company_a
+  desc:
+    detail: Working on migrating Whole Foods Market Website to Amazon technology stack.
+    i18n: company_a_desc
+  date:
+    detail: Aug 2019 to Present
+    i18n: company_a_date
+  job:
+    detail: Software Development Engineer
+    i18n: company_a_job
+  icon: fa-plus-square
+
+- name:
     detail: PTC
     i18n: company_a
   desc:
